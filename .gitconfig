@@ -1,0 +1,5 @@
+# A useful example .gitconfig file:
+# https://gist.github.com/pksunkara/988716
+
+[commit]
+        gpgsign = true
