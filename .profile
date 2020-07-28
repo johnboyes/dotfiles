@@ -5,3 +5,4 @@ echo "Running the .profile file"
 # https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html
 export GPG_TTY=$(tty)
 
+export DOT_PROFILE=dot_profile_is_set
