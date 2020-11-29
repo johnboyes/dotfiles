@@ -4,3 +4,6 @@
 
 # Always sign git commits
 git config --global commit.gpgsign true
+
+# Use VSCode as the editor for git commit messages
+git config --global core.editor "code --wait"
