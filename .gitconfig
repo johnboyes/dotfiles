@@ -1,5 +1,7 @@
-# Use VSCode as the editor for git commit messages
-git config --global core.editor "code --wait"
+[core]
+  # Use VSCode as the editor for git commit messages
+  editor = "code --wait"
 
-# Colour highlighting can often make things easier to read
-git config --global color.ui "auto"
+[color]
+  # Colour highlighting can often make things easier to read
+  ui = auto
