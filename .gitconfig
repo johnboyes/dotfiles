@@ -5,3 +5,6 @@
 [color]
   # Colour highlighting can often make things easier to read
   ui = auto
+  
+[alias]
+  signoff = "commit -s"
