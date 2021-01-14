@@ -6,9 +6,6 @@
   # Colour highlighting can often make things easier to read
   ui = auto
   
-[alias]
-  signoff = "commit -s"
-  
 [user]
   name = "John Boyes"
   email = 154404+johnboyes@users.noreply.github.com
