@@ -2,8 +2,5 @@
 # (environment variables go in .zshenv)
 # see https://www.reddit.com/r/zsh/comments/e882c4/what_is_the_difference_between_zshrc_and_zprofile/fa9qlzy
 
-# Always sign git commits
-git config --global commit.gpgsign true
-
 # Use VSCode as the editor for git commit messages
 git config --global core.editor "code --wait"
