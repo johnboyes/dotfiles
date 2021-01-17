@@ -9,3 +9,6 @@
 [user]
   name = "John Boyes"
   email = 154404+johnboyes@users.noreply.github.com
+  
+[commit]
+  gpgsign = true
